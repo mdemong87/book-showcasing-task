@@ -1,0 +1,90 @@
+[
+    {
+        "teamName": "Software engineer",
+        "teamMember": [
+            {
+                "name": "Nahid Hasan",
+                "position": "Wordpress Developer",
+                "expericence": "5"
+            },
+            {
+                "name": "Md Emon Hossen",
+                "position": "Full Stack Developer",
+                "expericence": "5"
+            }
+        ]
+    },
+    {
+        "teamName": "Brand strategy director",
+        "teamMember": [
+            {
+                "name": "Mahbubur Rahman",
+                "position": "Brand Strategist",
+                "expericence": "10",
+                "photo": "../images/1.png"
+            }
+        ]
+    },
+    {
+        "teamName": "Digital social marketer",
+        "teamMember": [
+            {
+                "name": "Ahmed Zia Chowdhury",
+                "position": "Content Writer",
+                "expericence": "9",
+                "photo": "../images/1.png"
+            },
+            {
+                "name": "Mohaiminul Noqib",
+                "position": "Digital Marketer",
+                "expericence": "4",
+                "photo": "../images/1.png"
+            }
+        ]
+    },
+    {
+        "teamName": "Graphic designer",
+        "teamMember": [
+            {
+                "name": "Abu Bokkor Siddik",
+                "position": "Graphic Designer",
+                "expericence": "4",
+                "photo": "../images/1.png"
+            }
+        ]
+    },
+    {
+        "teamName": "Motion designer",
+        "teamMember": [
+            {
+                "name": "MSI Opu",
+                "position": "3D Designer",
+                "expericence": "5",
+                "photo": "../images/1.png"
+            },
+            {
+                "name": "Nihal Kazi",
+                "position": "Motion Designer",
+                "expericence": "4",
+                "photo": "../images/1.png"
+            }
+        ]
+    },
+    {
+        "teamName": "UX/UI (Product designer)",
+        "teamMember": [
+            {
+                "name": "Musleh Uddin",
+                "position": "UX/UI Designer",
+                "expericence": "3",
+                "photo": "../images/1.png"
+            },
+            {
+                "name": "MS Newaz",
+                "position": "UX/UI Designer",
+                "expericence": "7",
+                "photo": "../images/1.png"
+            }
+        ]
+    }
+]
