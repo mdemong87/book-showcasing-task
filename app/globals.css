@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primaryColor: #da701a;
+  --secondaryColor: #E8E9FA;
+  --footerBg: #f9f8dc;
+
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.Containers {
+  width: 95%;
+  margin: auto;
+  height: 100%;
+}
+
+
+
+
+@media (min-width:768px) {
+  .Containers {
+    width: 75%;
+    margin: auto;
+    height: 100%;
+  }
+
+}
+
+@media (max-width:768px) {
+  .transformingBg {
+    background-position: center;
+    height: auto;
+  }
+}
+
+@layer utilities {
+  .pBg {
+    background: var(--primaryColor);
+  }
+
+  .pCl {
+    color: var(--primaryColor);
+  }
+
+  .sBg {
+    background: var(--secondaryColor);
+  }
+
+  .sCl {
+    color: var(--secondaryColor);
+  }
+
+  .footerBg {
+    background: var(--footerBg);
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .pFont {
+    font-family: var(--beaust);
+  }
+
+  .sFont {
+    font-family: var(--rakiby);
+  }
+}
